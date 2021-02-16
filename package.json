@@ -1,0 +1,24 @@
+{
+  "name": "rename-later",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server", 
+    "server": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasminhillis/rename-later.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasminhillis/rename-later/issues"
+  },
+  "homepage": "https://github.com/yasminhillis/rename-later#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mogoose": "0.0.1-security"
+  }
+}
